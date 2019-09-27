@@ -1,0 +1,41 @@
+/* Add any css you want to use for you website here */
+body
+{
+	text-align: center;
+}
+h1
+{
+	margin: 30px;
+}
+.link1
+{
+	color: white;
+	text-decoration: none;
+	border: 2px solid black;
+	padding: 5px;
+	margin-bottom: 60px;
+	background-color: black;
+}
+.link1:hover
+{
+	text-decoration: none;
+	border: 2px solid gold;
+	background-color: gold;
+	color: white;
+}
+.jumbotron
+{
+	margin-top: 40px;
+}
+.firstCol
+{
+	font-weight: normal;
+}
+#playerInfo
+{
+	width: 40%;
+}
+#info_box
+{
+	margin-left: 15%;
+}
